@@ -1,3 +1,19 @@
+Steps to run this project:
+## Must have NPM or Yarn is Globally installed on your system (Mandatory)
+
+1) ### `git clone https://github.com/Nekores/Pracc.git`
+2) ### `cd Pracc`
+3) ### `yarn install or npm install`
+4) ### `yarn run or npm run`
+
+Congratulations! You have run application sucessfully.
+
+
+
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
